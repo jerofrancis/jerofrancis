@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java,HTML,CSS,Javascript,Spring Boot,REACT**
 
-- 💬 Ask me about **Java,HTML,CSS,Javascript,Spring Boot,REACT**
+- 💬 Ask me about **Java,HTML,CSS,Javascript,Spring Boot,REACT,MySql,MongoDB**
 
 - 📫 How to reach me **jerofrancis89@gmail.com**
 
